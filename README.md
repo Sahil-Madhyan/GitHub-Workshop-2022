@@ -1,8 +1,9 @@
-## [CSI VESIT](https://www.csivesit.org/) GitHub Workshop
+# [CSI-VESIT](https://www.csivesit.org/) Github Demo
 
-### Workflow
+## Workflow
 
 - Fork
+- Github
 - clone
 - craete branch
 - make changes
@@ -10,4 +11,3 @@
 - commit
 - push
 - pull request
-
